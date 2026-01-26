@@ -196,6 +196,12 @@ The application uses React's `useState` and `useCallback` hooks for state manage
 - `message`: Feedback message displayed to the user
 - `travelTime`: Calculated travel time for the current booking
 
+## Overview
+![Hotel Room Reservation System](assets/Hotel Room Reservation System.png)
+
+## Live Demo
+
+
 ## Testing
 
 Use the **Random** button to simulate various booking scenarios:
@@ -207,3 +213,4 @@ Use the **Random** button to simulate various booking scenarios:
 ## License
 
 MIT License - See LICENSE file for details
+

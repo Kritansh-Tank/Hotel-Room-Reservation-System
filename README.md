@@ -199,7 +199,7 @@ The application uses React's `useState` and `useCallback` hooks for state manage
 ## Overview
 ![Hotel Room Reservation System](assets/Hotel_Room_Reservation_System.png)
 
-## Live Demo
+### Live Demo
 [Hotel Room Reservation System](https://hotel-room-reservation-sy.vercel.app/)
 
 ## Testing
@@ -213,6 +213,7 @@ Use the **Random** button to simulate various booking scenarios:
 ## License
 
 MIT License - See LICENSE file for details
+
 
 
 

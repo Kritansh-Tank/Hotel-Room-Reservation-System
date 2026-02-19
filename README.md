@@ -199,20 +199,10 @@ The application uses React's `useState` and `useCallback` hooks for state manage
 ## User Interface
 ![Hotel Room Reservation System](assets/Hotel_Room_Reservation_System.png)
 
-### Live Demo
-[Hotel Room Reservation System](https://hotel-room-reservation-sy.vercel.app/)
-
-## Testing
-
-Use the **Random** button to simulate various booking scenarios:
-1. Click "Random" to pre-book 30% of rooms
-2. Enter a number (1-5) in the input field
-3. Click "Book" to see how the algorithm handles fragmented availability
-4. Observe the selected rooms and calculated travel time
-
 ## License
 
 MIT License - See LICENSE file for details
+
 
 
 

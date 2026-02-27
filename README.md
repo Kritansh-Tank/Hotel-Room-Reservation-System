@@ -201,7 +201,8 @@ The application uses React's `useState` and `useCallback` hooks for state manage
 
 ## License
 
-MIT License - See LICENSE file for details
+MIT License - See LICENSE file for details 
+
 
 
 
